@@ -1,0 +1,3 @@
+
+TES_MAIN_01=		Yo man, wazzup ?
+TES_MAIN_02=[badeline freakA]		You are not welcome here !
