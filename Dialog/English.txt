@@ -1,0 +1,8 @@
+
+TES_MAIN_01=
+[badeline freakB]Yo man, wazzup ?
+TES_MAIN_02=
+[badeline freakA dialogue_end]You are not welcome here !
+TES_MAIN_03=
+[oshiro drama] Haoi
+TES_MAIN_04= Salut bro.
