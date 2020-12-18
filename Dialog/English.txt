@@ -4,5 +4,20 @@ TES_MAIN_01=
 TES_MAIN_02=
 [badeline freakA dialogue_end]You are not welcome here !
 TES_MAIN_03=
-[oshiro drama] Haoi
-TES_MAIN_04= Salut bro.
+[oshiro drama]{#FF0000} Haoi{#}
+TES_MAIN_04= {~}Salut bro.{/~}
+
+
+#VOICE DOWN THE PIT
+DUST_EVENT_01=
+[badeline left freakB]
+{#FF0000}{big}You'll never make it...{/big}{#}
+DUST_EVENT_02=
+[badeline right freakA]
+{#FF0000}{big}Give up ! it's too late !{/big}{#}
+DUST_EVENT_03=
+[badeline left freakC]
+{#FF0000}{big}You should have listen to me !{/big}{#}
+DUST_EVENT_04=
+[badeline right freakB]
+{#FF0000}{big}You'll never come back !{/big}{#}
