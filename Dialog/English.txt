@@ -10,14 +10,77 @@ TES_MAIN_04= {~}Salut bro.{/~}
 
 #VOICE DOWN THE PIT
 DUST_EVENT_01=
-[badeline left freakB]
 {#FF0000}{big}You'll never make it...{/big}{#}
 DUST_EVENT_02=
-[badeline right freakA]
-{#FF0000}{big}Give up ! it's too late !{/big}{#}
+{#FF0000}{big}You're a failure...{/big}{#}
 DUST_EVENT_03=
-[badeline left freakC]
-{#FF0000}{big}You should have listen to me !{/big}{#}
+{#FF0000}{big}Get a clue...{/big}{#}
 DUST_EVENT_04=
-[badeline right freakB]
-{#FF0000}{big}You'll never come back !{/big}{#}
+{#FF0000}{big}You'll never come back...{/big}{#}
+DUST_EVENT_05=
+{#FF0000}{big}You're doomed...{/big}{#}
+DUST_EVENT_06=
+{#FF0000}{big}Fall in the darkness...{/big}{#}
+DUST_EVENT_07=
+{#FF0000}{big}Let it consume you...{/big}{#}
+DUST_EVENT_08=
+{#FF0000}{big}you'll be crushed...{/big}{#}
+DUST_EVENT_09=
+{#FF0000}{big}There's no hope...{/big}{#}
+DUST_EVENT_10=
+{#FF0000}{big}There's no escape...{/big}{#}
+DUST_EVENT_11=
+{#FF0000}{big}The dust will consume everything...{/big}{#}
+
+BIRD_01=
+{#00FFFF} Wake up you're going to be late !{#}
+[madeline left normal]
+Another Five minutes...
+[]
+{#00FFFF} Come on wake up !{#}
+[madeline left normal]
+Must be another weird dream.
+[]
+{#00FFFF} Follow me before she gets to us !{#}
+[madeline left normal]
+What is up with that bird ?!
+
+BIRD_02=
+{#00FFFF} Quick now ! grab the heart !{#}
+[madeline left normal]
+And why should I mister talking bird ?
+[]
+{#00FFFF} Now is not the time to ask question we are in danger !{#}
+[madeline left normal]
+What do you mean ?
+[]
+{#00FFFF} I don't want to end up roasted on a broch ! i'm outta here ! {#}
+[madeline left normal]
+Fine i'll try and reach it stop panicking geez...
+
+BIRD_03=
+[madeline left normal]
+Hey wait for me !
+
+BIRD_04=
+{#00FFFF} I'm gonna end up like fry chicken at this pace...{#}
+
+BIRD_05=
+[madeline left normal]
+Mr bird ! Are you allright ?
+[]
+{#00FFFF}{~} Clearly not as you can see...{/~}{#}
+[madeline left normal]
+What happened !?
+[]
+{#00FFFF}{~} The dust... it got to me...{/~}{#}
+[]
+{#00FFFF}{~} That stuff... it's dangerous... it's too late for me but...{/~}{#}
+[]
+{#00FFFF}{~} There's still hope for you...{/~}{#}
+[madeline left normal]
+I'll get to the exit and i'll come back for you ok ?
+[]
+{#00FFFF}{~} Don't worry about me just... end the nightmare... please...{/~}{#}
+
+
