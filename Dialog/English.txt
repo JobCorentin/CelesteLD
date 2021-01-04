@@ -34,15 +34,15 @@ DUST_EVENT_11=
 
 BIRD_01=
 {#00FFFF} Wake up you're going to be late !{#}
-[madeline left normal]
-Another Five minutes...
+[madeline left upset]
+Another five minutes...
 []
 {#00FFFF} Come on wake up !{#}
-[madeline left normal]
+[madeline left determined]
 Must be another weird dream.
 []
 {#00FFFF} Follow me before she gets to us !{#}
-[madeline left normal]
+[madeline left upset]
 What is up with that bird ?!
 
 BIRD_02=
@@ -50,7 +50,7 @@ BIRD_02=
 [madeline left upset]
 And why should I mister talking bird ?
 []
-{#00FFFF} Now is not the time to ask question we are in danger !{#}
+{#00FFFF} Now is not the time to ask question ! we are in danger !{#}
 [madeline left distracted]
 What do you mean ?
 []
@@ -59,7 +59,7 @@ What do you mean ?
 Fine i'll try and reach it stop panicking geez...
 
 BIRD_03=
-[madeline left normal]
+[madeline left surprised]
 Hey wait for me !
 
 BIRD_04=
@@ -67,9 +67,9 @@ BIRD_04=
 
 BIRD_05=
 [madeline left surprised]
-Mr bird ! Are you allright ?
+Mr bird ! Are you alright ?
 []
-{#00FFFF}{~} Clearly not as you can see...{/~}{#}
+{#00FFFF}{~} Clearly not... as you can see...{/~}{#}
 [madeline left surprised]
 What happened !?
 []
@@ -97,7 +97,7 @@ There's no hope left for you !
 [madeline left panic]
 Leave me alone ! it hurts !
 [Theo right worried]
-Madeline get it together !
+Madeline ! get it together !
 [madeline left panic]
 Theo... it's you..?
 [madeline left panic]
@@ -105,13 +105,13 @@ My head... it is burning...
 [Theo right worried]
 Calm down just breath...
 [Theo right worried]
-it's gonna be allright.
+It's gonna be allright.
 [madeline left sadder]
-i feel... a little bit better...
+I feel... a little bit better...
 [madeline left sad]
 Thanks Theo...
 [Theo right worried]
-See no need to panic, justm calm yourself.
+See ? no need to panic, justm calm yourself.
 [Theo right worried]
 Now you need to get out of here before the pain comes back.
 [madeline left distracted]
