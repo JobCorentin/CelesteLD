@@ -46,11 +46,11 @@ Must be another weird dream.
 What is up with that bird ?!
 
 BIRD_02=
-{#00FFFF} Quick now ! grab the heart !{#}
+{#00FFFF} Quick now ! Grab the heart !{#}
 [madeline left upset]
 And why should I mister talking bird ?
 []
-{#00FFFF} Now is not the time to ask question ! we are in danger !{#}
+{#00FFFF} Now is not the time to ask question ! We are in danger !{#}
 [madeline left distracted]
 What do you mean ?
 []
@@ -89,7 +89,7 @@ Theo ? What are you...
 [madeline left panic]
 Argh... my head it hurts...
 [Badeline right freakA]
-Don't fight it ! it's useless !
+Don't fight it ! It's useless !
 [Badeline right freakB]
 Get swallowed in the dust !
 [Badeline right freakC]
