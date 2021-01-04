@@ -47,15 +47,15 @@ What is up with that bird ?!
 
 BIRD_02=
 {#00FFFF} Quick now ! grab the heart !{#}
-[madeline left normal]
+[madeline left upset]
 And why should I mister talking bird ?
 []
 {#00FFFF} Now is not the time to ask question we are in danger !{#}
-[madeline left normal]
+[madeline left distracted]
 What do you mean ?
 []
 {#00FFFF} I don't want to end up roasted on a broch ! i'm outta here ! {#}
-[madeline left normal]
+[madeline left upset]
 Fine i'll try and reach it stop panicking geez...
 
 BIRD_03=
@@ -66,11 +66,11 @@ BIRD_04=
 {#00FFFF} I'm gonna end up like fry chicken at this pace...{#}
 
 BIRD_05=
-[madeline left normal]
+[madeline left surprised]
 Mr bird ! Are you allright ?
 []
 {#00FFFF}{~} Clearly not as you can see...{/~}{#}
-[madeline left normal]
+[madeline left surprised]
 What happened !?
 []
 {#00FFFF}{~} The dust... it got to me...{/~}{#}
@@ -78,9 +78,59 @@ What happened !?
 {#00FFFF}{~} That stuff... it's dangerous... it's too late for me but...{/~}{#}
 []
 {#00FFFF}{~} There's still hope for you...{/~}{#}
-[madeline left normal]
+[madeline left sad]
 I'll get to the exit and i'll come back for you ok ?
 []
 {#00FFFF}{~} Don't worry about me just... end the nightmare... please...{/~}{#}
+
+THEO_01=
+[madeline left surprised]
+Theo ? What are you...
+[madeline left panic]
+Argh... my head it hurts...
+[Badeline right freakA]
+Don't fight it ! it's useless !
+[Badeline right freakB]
+Get swallowed in the dust !
+[Badeline right freakC]
+There's no hope left for you !
+[madeline left panic]
+Leave me alone ! it hurts !
+[Theo right worried]
+Madeline get it together !
+[madeline left panic]
+Theo... it's you..?
+[madeline left panic]
+My head... it is burning...
+[Theo right worried]
+Calm down just breath...
+[Theo right worried]
+it's gonna be allright.
+[madeline left sadder]
+i feel... a little bit better...
+[madeline left sad]
+Thanks Theo...
+[Theo right worried]
+See no need to panic, justm calm yourself.
+[Theo right worried]
+Now you need to get out of here before the pain comes back.
+[madeline left distracted]
+But how ? we are in a dead end and we cant climb back up.
+[Theo right excited]
+What you see might deceive you but there is a way out.
+[Madeline left sad]
+What do you mean ?
+[Theo right excited]
+See for yourself !
+
+THEO_02=
+[Theo right excited]
+Go forth i catch up with you later.
+[Madeline left distracted]
+I was wondering...
+[Madeline left sad]
+Why does the dust affect me but not you ?
+[Theo right excited]
+Don't think about it.
 
 
