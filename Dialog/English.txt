@@ -32,15 +32,27 @@ DUST_EVENT_10=
 DUST_EVENT_11=
 {#FF0000}{big}The dust will consume everything...{/big}{#}
 
+KIND_EVENT_01=
+{~} stay calm. {/~}
+KIND_EVENT_02=
+{~} Don't panic.{/~}
+KIND_EVENT_03=
+{~} Believe in yourself ! {/~}
+KIND_EVENT_04=
+{~} Almost there ! {/~}
+KIND_EVENT_05=
+{~} This is it ! {/~}
+
 BIRD_01=
+[Granny right sup]
 {#00FFFF} Wake up you're going to be late !{#}
 [madeline left upset]
 Another five minutes...
-[]
+[Granny right sup]
 {#00FFFF} Come on wake up !{#}
 [madeline left determined]
 Must be another weird dream.
-[]
+[Granny right sup]
 {#00FFFF} Follow me before she gets to us !{#}
 [madeline left upset]
 What is up with that bird ?!
@@ -49,11 +61,11 @@ BIRD_02=
 {#00FFFF} Quick now ! Grab the heart !{#}
 [madeline left upset]
 And why should I mister talking bird ?
-[]
+[Granny right sup]
 {#00FFFF} Now is not the time to ask question ! We are in danger !{#}
 [madeline left distracted]
 What do you mean ?
-[]
+[Granny right sup]
 {#00FFFF} I don't want to end up roasted on a broch ! i'm outta here ! {#}
 [madeline left upset]
 Fine i'll try and reach it stop panicking geez...
@@ -68,19 +80,19 @@ BIRD_04=
 BIRD_05=
 [madeline left surprised]
 Mr bird ! Are you alright ?
-[]
+[Granny right sup]
 {#00FFFF}{~} Clearly not... as you can see...{/~}{#}
 [madeline left surprised]
 What happened !?
-[]
+[Granny right sup]
 {#00FFFF}{~} The dust... it got to me...{/~}{#}
-[]
+[Granny right sup]
 {#00FFFF}{~} That stuff... it's dangerous... it's too late for me but...{/~}{#}
-[]
+[Granny right sup]
 {#00FFFF}{~} There's still hope for you...{/~}{#}
 [madeline left sad]
 I'll get to the exit and i'll come back for you ok ?
-[]
+[Granny right sup]
 {#00FFFF}{~} Don't worry about me just... end the nightmare... please...{/~}{#}
 
 THEO_01=
@@ -132,5 +144,34 @@ I was wondering...
 Why does the dust affect me but not you ?
 [Theo right excited]
 Don't think about it.
+
+THEO_03=
+[madeline left surprised]
+Theo ? But how ?
+[Theo right excited]
+Great job Madeline ! You did it !
+[madeline left surprised]
+But... how did you get here ?
+[Theo right excited]
+Don't sweat it ! what's important is that you got to the top !
+[Theo right excited]
+I'm proud of you !
+[madeline left sad]
+Thanks i guess, without your help i would still be stuck in this pit...
+[Theo right excited]
+And if you fall again i'll be there for you.
+[Theo right excited]
+Just remember that's there people you can count on.
+[Theo right excited]
+Don't push youserlf too hard when people can help you.
+[madeline left normal]
+Thanks a lot Theo.
+[Theo right excited]
+Now, don't lose focus and go get this damned heart
+[Theo right excited]
+So we can finaly get out of this dream !
+[Madeline left normal]
+I'm on it !
+
 
 
