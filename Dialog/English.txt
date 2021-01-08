@@ -24,7 +24,7 @@ DUST_EVENT_06=
 DUST_EVENT_07=
 {#FF0000}{big}Let it consume you...{/big}{#}
 DUST_EVENT_08=
-{#FF0000}{big}you'll be crushed...{/big}{#}
+{#FF0000}{big}You'll be crushed...{/big}{#}
 DUST_EVENT_09=
 {#FF0000}{big}There's no hope...{/big}{#}
 DUST_EVENT_10=
@@ -45,7 +45,7 @@ KIND_EVENT_05=
 
 BIRD_01=
 [Granny right sup]
-{#00FFFF} Wake up you're going to be late !{#}
+{#00FFFF} Wake up ! You're going to be late !{#}
 [madeline left upset]
 Another five minutes...
 [Granny right sup]
@@ -60,15 +60,15 @@ What is up with that bird ?!
 BIRD_02=
 {#00FFFF} Quick now ! Grab the heart !{#}
 [madeline left upset]
-And why should I mister talking bird ?
+And why should I, Mister talking bird ?
 [Granny right sup]
 {#00FFFF} Now is not the time to ask question ! We are in danger !{#}
 [madeline left distracted]
 What do you mean ?
 [Granny right sup]
-{#00FFFF} I don't want to end up roasted on a broch ! i'm outta here ! {#}
+{#00FFFF} I don't want to end up roasted on a broch ! I'm outta here ! {#}
 [madeline left upset]
-Fine i'll try and reach it stop panicking geez...
+Fine I'll try and reach it, stop panicking geez...
 
 BIRD_03=
 [madeline left surprised]
@@ -79,7 +79,7 @@ BIRD_04=
 
 BIRD_05=
 [madeline left surprised]
-Mr bird ! Are you alright ?
+Mr Bird ! Are you alright ?
 [Granny right sup]
 {#00FFFF}{~} Clearly not... as you can see...{/~}{#}
 [madeline left surprised]
@@ -91,7 +91,7 @@ What happened !?
 [Granny right sup]
 {#00FFFF}{~} There's still hope for you...{/~}{#}
 [madeline left sad]
-I'll get to the exit and i'll come back for you ok ?
+I'll get to the exit and I'll come back for you, ok ?
 [Granny right sup]
 {#00FFFF}{~} Don't worry about me just... end the nightmare... please...{/~}{#}
 
@@ -99,7 +99,7 @@ THEO_01=
 [madeline left surprised]
 Theo ? What are you...
 [madeline left panic]
-Argh... my head it hurts...
+Argh... My head... It hurts...
 [Badeline right freakA]
 Don't fight it ! It's useless !
 [Badeline right freakB]
@@ -107,23 +107,23 @@ Get swallowed in the dust !
 [Badeline right freakC]
 There's no hope left for you !
 [madeline left panic]
-Leave me alone ! it hurts !
+Leave me alone ! It hurts !
 [Theo right worried]
-Madeline ! get it together !
+Madeline ! Get it together !
 [madeline left panic]
-Theo... it's you..?
+Theo... It's you..?
 [madeline left panic]
-My head... it is burning...
+My head... It is burning...
 [Theo right worried]
 Calm down just breath...
 [Theo right worried]
-It's gonna be allright.
+It's gonna be alright.
 [madeline left sadder]
 I feel... a little bit better...
 [madeline left sad]
 Thanks Theo...
 [Theo right worried]
-See ? no need to panic, justm calm yourself.
+See ? No need to panic, just calm yourself.
 [Theo right worried]
 Now you need to get out of here before the pain comes back.
 [madeline left distracted]
@@ -137,7 +137,7 @@ See for yourself !
 
 THEO_02=
 [Theo right excited]
-Go forth i catch up with you later.
+Go forth I catch up with you later.
 [Madeline left distracted]
 I was wondering...
 [Madeline left sad]
@@ -153,13 +153,13 @@ Great job Madeline ! You did it !
 [madeline left surprised]
 But... how did you get here ?
 [Theo right excited]
-Don't sweat it ! what's important is that you got to the top !
+Don't sweat it ! What's important is that you got to the top !
 [Theo right excited]
 I'm proud of you !
 [madeline left sad]
-Thanks i guess, without your help i would still be stuck in this pit...
+Thanks I guess, without your help I would still be stuck in this pit...
 [Theo right excited]
-And if you fall again i'll be there for you.
+And if you fall again I'll be there for you.
 [Theo right excited]
 Just remember that's there people you can count on.
 [Theo right excited]
