@@ -7,6 +7,9 @@ TES_MAIN_03=
 [oshiro drama]{#FF0000} Haoi{#}
 TES_MAIN_04= {~}Salut bro.{/~}
 
+#HEART
+poem_The_Dust_Dream_A= Nightmare conquered !
+HEART_END= Nightmare conquered !
 
 #VOICE DOWN THE PIT
 DUST_EVENT_01=
@@ -58,6 +61,7 @@ Must be another weird dream.
 What is up with that bird ?!
 
 BIRD_02=
+[Granny right sup]
 {#00FFFF} Quick now ! Grab the heart !{#}
 [madeline left upset]
 And why should I, Mister talking bird ?
@@ -101,11 +105,11 @@ Theo ? What are you...
 [madeline left panic]
 Argh... My head... It hurts...
 [Badeline right freakA]
-Don't fight it ! It's useless !
+{#FF0000}Don't fight it ! It's useless !{#}
 [Badeline right freakB]
-Get swallowed in the dust !
+{#FF0000}Get swallowed in the dust !{#}
 [Badeline right freakC]
-There's no hope left for you !
+{#FF0000}There's no hope left for you !{#}
 [madeline left panic]
 Leave me alone ! It hurts !
 [Theo right worried]
@@ -127,7 +131,7 @@ See ? No need to panic, just calm yourself.
 [Theo right worried]
 Now you need to get out of here before the pain comes back.
 [madeline left distracted]
-But how ? we are in a dead end and we cant climb back up.
+But how ? we are in a dead end and we can't climb back up.
 [Theo right excited]
 What you see might deceive you but there is a way out.
 [Madeline left sad]
